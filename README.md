@@ -37,7 +37,7 @@ This project delivers an advanced business intelligence and predictive analytics
 
 ### 📸 Dashboard Preview (Screenshots)
 #### 1. Main Financial Performance & Predictive Analytics
-![Main Dashboard](https://placeholder.com)
+![Main Dashboard]([https://placeholder.com](https://github.com/o9qadi/GCC-ECommerce-Sales-Intelligence/blob/main/ECommerce_Big_Data_2026.png)
 
 ---
 
